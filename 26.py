@@ -43,8 +43,6 @@ import math
 from scipy.cluster.hierarchy import dendrogram, linkage, fcluster
 from scipy.spatial.distance import pdist, squareform
 from PIL import Image
-import networkx as nx
-from io import BytesIO
 import xlsxwriter
 
 # إعداد الخط
